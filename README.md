@@ -1,4 +1,5 @@
 Why this matters?
+
 Traditional research tools like the ArXiv API rely on metadata and keyword matching, forcing researchers to download multiple PDFs and manually search for answers. This pipeline transforms that workflow.
 By ingesting the full text of papers into a semantic vector store, we move beyond simple document retrieval to true Knowledge Extraction. This system allows users to ask natural language questions across the entire corpus and receive faithfully cited answers grounded in specific paragraphs, capturing semantic nuances that keyword searches miss completely.
 
